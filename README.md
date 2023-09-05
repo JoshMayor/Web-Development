@@ -1,0 +1,1 @@
+Create a documentation on todays class in this file using the note pad.
